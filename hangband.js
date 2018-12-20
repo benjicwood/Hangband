@@ -1,6 +1,6 @@
 var bands = new Array(20);
 bands[0] = 'METALLICA';
-bands[1] = 'ABBA';
+bands[1] = 'GHOST';
 bands[2] = 'GORILLAZ';
 bands[3] = 'BIFFY CLYRO';
 bands[4] = 'OASIS';
